@@ -9,5 +9,5 @@ Esmiuçar os métodos em array para consolidar meus conhecimentos.
   
    <h2>Link</h2>
  <ul>
-   <li>https://guilhermetgg.github.io/lista.telefonica/</li>
+   <li>https://guilhermetgg.github.io/metodosArray/</li>
   
